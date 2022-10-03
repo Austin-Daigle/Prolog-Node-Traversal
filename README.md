@@ -1,4 +1,4 @@
-# Prolog Node Traversal
+# Prolog City Map Node Traversal
 This is a simple program written in Prolog that iterate though a city node (from the given image) map to find viable paths.
 
 ## Given Image:
